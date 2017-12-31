@@ -29,7 +29,7 @@ node_modules
 
 .idea
 *.iml
-/lib
+# /lib # keep compiled output in the git repo for installation from git
 
 lcov.info
 .DS_Store
